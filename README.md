@@ -9,7 +9,7 @@ Senior Technical Team Lead | AI/ML Enthusiast | Docker & CI/CD Advocate | Drupal
 
 ## 📌 Featured Projects
 - [dev-docker-starter](https://github.com/ovanesb/dev-docker-starter): A clean, extensible Docker starter kit for local development and testing
-- [ai-ml-docker-pipelines](https://github.com/yourusername/ai-ml-docker-pipelines): Containerized pipelines for training and serving ML models (Work in Progress)
+- [ai-ml-docker-pipelines](https://github.com/ovanesb/ai-ml-docker-pipelines): Containerized pipelines for training and serving ML models (Work in Progress)
 
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ovanesb/)
