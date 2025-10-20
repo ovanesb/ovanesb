@@ -1,18 +1,30 @@
-# Hi, I'm Ovanes Budakyan 👋
+# Hi, I am Ovanes Budakyan 👋
 
-Senior Technical Team Lead | AI/ML Enthusiast | Docker & CI/CD Advocate | Drupal Multisite Architect
+**Senior Technical Team Lead | AI/ML Enthusiast | Docker & CI/CD Advocate | Drupal Multisite Architect**
 
-- 🧠 15+ years of experience in software engineering and technical leadership
-- 🐳 Specializing in scalable Docker-based workflows for local dev and CI pipelines
-- 🤖 Exploring the intersection of AI/ML workloads and cloud-native infrastructure
-- 🔍 Passionate about automation, deep debugging, and building tools that empower developers
+- 🧠 15+ years of experience in software engineering and technical leadership  
+- 🐳 Specializing in scalable Docker-based workflows for local dev and CI pipelines  
+- 🤖 Exploring the intersection of AI/ML workloads and cloud-native infrastructure  
+- 🔍 Passionate about automation, deep debugging, and building tools that empower developers  
+
+💬 I'm looking for contributors interested in **AI, DevOps, and Drupal automation!**  
+If you'd like to explore, improve, or extend [**Drupal DevOps Co-Pilot**](https://github.com/ovanesb/drupal-devops-copilot),  
+your ideas and pull requests are always welcome 🚀  
 
 ## 📌 Featured Projects
-- [dev-docker-starter](https://github.com/ovanesb/dev-docker-starter): A clean, extensible Docker starter kit for local development and testing
-- [ai-ml-docker-pipelines](https://github.com/ovanesb/ai-ml-docker-pipelines): Containerized pipelines for training and serving ML models (Work in Progress)
+
+- [**Drupal DevOps Co-Pilot**](https://github.com/ovanesb/drupal-devops-copilot):  
+  An **AI-powered DevOps Agent** that reads Jira issues, writes code, and automates **Git**, **Drush**, and **deployment pipelines** for Drupal teams.  
+  Built with **Python (FastAPI)** and **Next.js**, supporting **OpenAI** and **Ollama** for local LLM execution.
+
+- [**dev-docker-starter**](https://github.com/ovanesb/dev-docker-starter):  
+  A clean, extensible Docker starter kit for local development and testing.
+
+- [**ai-ml-docker-pipelines**](https://github.com/ovanesb/ai-ml-docker-pipelines):  
+  Containerized pipelines for training and serving ML models (Work in Progress).
 
 ## 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ovanesb/)
+- [LinkedIn](https://www.linkedin.com/in/ovanesb/)  
 - [Docker Hub](https://hub.docker.com/u/ovanesb)
 
 
